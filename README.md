@@ -1,14 +1,15 @@
 # Intro to Nodejs
 > Scott Moss & Frontend Masters
-- [Resources](#resources)
-- [Course](#course)
-- [Excercises](#excercises)
-  - [Installing Node](#installing-node)
-  - [Modules (node vs browser)](#modules-node-vs-browser)
-  - [CLI (npm)](#cli-npm)
-  - [API (async code)](#api-async-code)
-  - [Debugging & Testing](#debugging--testing)
-  - [Sharing and Deploying](#sharing-and-deploying)
+- [Intro to Nodejs](#intro-to-nodejs)
+  - [Resources](#resources)
+  - [Course](#course)
+  - [Exercises](#exercises)
+    - [Installing Node](#installing-node)
+    - [Modules (node vs browser)](#modules-node-vs-browser)
+    - [CLI (npm)](#cli-npm)
+    - [API (async code)](#api-async-code)
+    - [Debugging & Testing](#debugging--testing)
+    - [Sharing and Deploying](#sharing-and-deploying)
 
 ## Resources
 * [Slides](https://slides.com/scotups/deck/fullscreen)
